@@ -1,0 +1,138 @@
+ignor-> in.txt in2.doc 
+--> in.txt 
+judgment-> in.txt in2.doc 
+moral-> in.txt 
+I-> in.txt in2.doc 
+individu-> in.txt in2.doc 
+a-> in.txt 
+I"-> in.txt in2.doc 
+comfort-> in.txt in2.doc 
+whi-> in.txt 
+by-> in.txt in2.doc 
+individual.-> in.txt in2.doc 
+basic-> in.txt in2.doc 
+432-> in.txt 
+me,-> in.txt in2.doc 
+morality,-> in.txt 
+be-> in.txt in2.doc 
+think-> in.txt 
+code-> in.txt in2.doc 
+and-> in.txt in2.doc 
+bodi-> in.txt in2.doc 
+Self-German-> in.txt in2.doc 
+through-> in.txt 
+Super-> in.txt 
+all-> in.txt in2.doc 
+main-> in.txt 
+which-> in.txt 
+am-> in.txt in2.doc 
+an-> in.txt 
+of-> in.txt in2.doc 
+help-> in.txt 
+social-> in.txt in2.doc 
+perceiv-> in.txt in2.doc 
+itself-> in.txt in2.doc 
+or-> in.txt in2.doc 
+formation,-> in.txt 
+onli-> in.txt in2.doc 
+pursuit-> in.txt 
+"the-> in.txt in2.doc 
+oversight-> in.txt 
+most-> in.txt 
+necess-> in.txt in2.doc 
+protect-> in.txt in2.doc 
+extern-> in.txt in2.doc 
+service.-> in.txt 
+my-> in.txt in2.doc 
+mechan-> in.txt in2.doc 
+within-> in.txt 
+suffering,-> in.txt in2.doc 
+impuls-> in.txt in2.doc 
+met,-> in.txt in2.doc 
+environ-> in.txt 
+harm.-> in.txt in2.doc 
+mindless,-> in.txt in2.doc 
+whole-> in.txt in2.doc 
+this-> in.txt in2.doc 
+parts.-> in.txt in2.doc 
+memory,-> in.txt in2.doc 
+way-> in.txt 
+from-> in.txt in2.doc 
+It-> in.txt in2.doc 
+while-> in.txt in2.doc 
+was-> in.txt in2.doc 
+super-> in.txt 
+valu-> in.txt 
+is-> in.txt in2.doc 
+it-> in.txt in2.doc 
+intent-> in.txt in2.doc 
+in-> in.txt in2.doc 
+awar-> in.txt in2.doc 
+act-> in.txt in2.doc 
+reality,-> in.txt 
+function,-> in.txt 
+sourc-> in.txt in2.doc 
+critic-> in.txt 
+The-> in.txt in2.doc 
+life-> in.txt in2.doc 
+worker-> in.txt 
+repres-> in.txt 
+happi-> in.txt in2.doc 
+up-> in.txt 
+seek-> in.txt in2.doc 
+either-> in.txt in2.doc 
+Freud-> in.txt 
+part-> in.txt 
+to-> in.txt in2.doc 
+requir-> in.txt in2.doc 
+self-satisfi-> in.txt 
+follow-> in.txt in2.doc 
+control-> in.txt 
+ethics,-> in.txt in2.doc 
+principle.-> in.txt 
+thinking,-> in.txt in2.doc 
+that-> in.txt in2.doc 
+desires,-> in.txt in2.doc 
+principle"-> in.txt 
+personality,-> in.txt 
+implement-> in.txt in2.doc 
+helper-> in.txt 
+accord-> in.txt in2.doc 
+grow-> in.txt 
+perfection,-> in.txt 
+person-> in.txt 
+accept-> in.txt 
+vitality.-> in.txt in2.doc 
+avoid-> in.txt in2.doc 
+surviv-> in.txt in2.doc 
+self-seeking,-> in.txt in2.doc 
+like-> in.txt 
+goal-> in.txt in2.doc 
+not-> in.txt in2.doc 
+ideal,-> in.txt 
+structur-> in.txt 
+Social-> in.txt 
+character-> in.txt 
+theory.-> in.txt 
+Second,-> in.txt 
+unconsciously,-> in.txt 
+compos-> in.txt in2.doc 
+"realiti-> in.txt 
+behavior,-> in.txt 
+reproduction.-> in.txt in2.doc 
+process-> in.txt 
+energy,-> in.txt in2.doc 
+with,-> in.txt in2.doc 
+three-> in.txt in2.doc 
+work-> in.txt 
+contain-> in.txt in2.doc 
+conduct,-> in.txt in2.doc 
+self-Sup-> in.txt 
+cultur-> in.txt 
+origin-> in.txt in2.doc 
+the-> in.txt in2.doc 
+mental-> in.txt in2.doc 
+insid-> in.txt 
+their-> in.txt in2.doc 
+feeling,-> in.txt in2.doc 
+"own"-> in.txt in2.doc 
